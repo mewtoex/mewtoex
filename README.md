@@ -13,12 +13,22 @@
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="mewtoex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="mewtoex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+
+  <img align="center" alt="mewtoex-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="mewtoex-Ar" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="mewtoex-bitbucket" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
+  <img align="center" alt="mewtoex-azule" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">  
   <img align="center" alt="mewtoex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mewtoex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mewtoex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <img align="center" alt="mewtoex-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="mewtoex-AWS" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img align="center" alt="mewtoex-AWS" height="30"width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+
   
+</div>
+
   ##
  
 <div>  
