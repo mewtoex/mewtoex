@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho como Fullstack
 - 🌱 Estudando Node.ja
-- 💬 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/mewtoex">
