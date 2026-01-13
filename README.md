@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado por criar ecossistemas eficientes e invisíveis.
 
 ## 🚀 Projeto em Destaque
 
-### 💰 [Smart Finance Ecosystem](LINK_DO_SEU_REPOSITORIO_AQUI)
+### 💰 [Smart Finance Ecosystem](mewtoex/finance-project)
 > *Um sistema financeiro pessoal auto-hospedado, automatizado e potencializado por IA.*
 
 Este não é apenas um dashboard; é um **Home Lab** completo que gerencia finanças via ChatOps.
